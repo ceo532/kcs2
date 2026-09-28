@@ -1,0 +1,6 @@
+{
+  "name": "Trắc Nghiệm Tiếng Anh Lớp 7",
+  "description": "Ứng dụng làm bài tập trắc nghiệm tiếng Anh lớp 7 trực tuyến dành cho học sinh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
